@@ -1,0 +1,14 @@
+{
+  "licenses": {
+    "KEY-OWNER-123": {
+      "customer": "Owner",
+      "expiry": "2030-01-01T00:00:00",
+      "active": true
+    },
+    "KEY-TESTER-15MIN": {
+      "customer": "Tester",
+      "expiry": "2025-04-06T21:45:00",
+      "active": true
+    }
+  }
+}
