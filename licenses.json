@@ -1,13 +1,10 @@
 [
   {
-    "key": "KEY-OWNER-123",
-    "expires": "2030-01-01 00:00:00",
-    "active": true
+    "key": "TESTER15",
+    "expires": "2025-04-13 21:15:00"
   },
   {
-    "key": "KEY-TESTER-15MIN",
-    "expires": "2025-04-07 03:00:00",
-    "active": true
+    "key": "MASTERKEY",
+    "expires": "2030-01-01 00:00:00"
   }
 ]
-
